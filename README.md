@@ -1,2 +1,2 @@
 # pypong
-Pong writting in Python using the Pygame library
+Pong written in Python using the Pygame library
